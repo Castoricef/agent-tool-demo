@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+
+# 待办数据不提交
+storage/todos.json
